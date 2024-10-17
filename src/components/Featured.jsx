@@ -12,10 +12,10 @@ import { books } from '../data'
 function Featured() {
   // Defining a functional component called 'Featured'.
   
-  console.log(books)
+  // console.log(books)
   // Logging the full 'books' array to the console for debugging purposes. This helps in verifying the data structure.
 
-  console.log()
+  // console.log()
   // Intentionally empty console log. Likely added for debugging, but should be removed or given a purpose.
 
   return (

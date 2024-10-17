@@ -1,7 +1,7 @@
 // rfce
 
 import React from 'react'
-import UndrawBook from '../assets/Undraw_Books.svg'
+import UndrawBook from '../assets/Undraw_Book.svg'
 import { Link } from "react-router-dom"
 
 const Landing = () => {

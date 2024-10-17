@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -58,7 +59,7 @@ li {
 
 h1 {
   font-size: 56px;
-  color: #7342d6;
+  color: #F58F29;
   margin-bottom: 24px;
   text-align: center;
 }
@@ -78,7 +79,7 @@ button:active {
 }
 
 .btn {
-  background-color: #7342d6;
+  background-color: #F58F29;
   color: white;
   padding: 12px 24px;
   font-size: 20px;
@@ -87,11 +88,12 @@ button:active {
 }
 
 .purple {
-  color: #7342d6;
+  color: #F58F29;
 }
 
 .logo {
   width: 160px;
+  filter: hue-rotate(100deg);
 }
 
 .nav__container {
@@ -109,7 +111,7 @@ button:active {
   font-size: 20px;
   font-weight: bold;
   padding: 8px;
-  color: #7342d6;
+  color: #F58F29;
 }
 
 .nav__list {
@@ -124,7 +126,7 @@ button:active {
 }
 
 .nav__link--primary {
-  border: 2px solid #7342d6;
+  border: 2px solid #F58F29;
   border-radius: 4px;
 }
 
@@ -136,7 +138,7 @@ button:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #7342d6;
+  color: #F58F29;
   font-size: 20px;
   position: relative;
   margin-left: 8px;
@@ -162,7 +164,7 @@ button:active {
   background-color: transparent;
   font-size: 32px;
   border: none;
-  color: #7342d6;
+  color: #F58F29;
   display: none;
 }
 
@@ -225,7 +227,7 @@ LANDING
 */
 
 #landing {
-  background-color: rgba(115, 66, 214, 0.1)
+  background-color: #f58f2944
 }
 
 header {
@@ -337,8 +339,8 @@ HIGHLIGHTS
 }
 
 .highlight__img {
-  border: 2px solid #7342d65d;
-  color: #7342d6;
+  border: 2px solid #F58F295d;
+  color: #F58F29;
   width: 100px;
   height: 100px;
   display: flex;
@@ -363,7 +365,7 @@ FEATURES
 
 #features {
   padding-top: 8vw;
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f58f2944;
 }
 
 .books {
@@ -455,7 +457,7 @@ EXPLORE
 */
 
 #explore {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f58f2944;
 }
 
 /* 
@@ -499,7 +501,7 @@ BOOKS PAGE
 */
 
 #books__body {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f58f2944;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -541,7 +543,7 @@ select {
   justify-content: center;
   padding-top: 60px;
   font-size: 60px;
-  color: #7342d6;
+  color: #F58F29;
 }
 
 .fa-spinner {
@@ -649,7 +651,7 @@ select {
 */
 
 .cart__header {
-  background-color: #7342d6;
+  background-color: #F58F29;
   margin: 0 24px;
   padding: 8px 16px;
   color: white;
@@ -742,7 +744,7 @@ select {
 }
 
 .total__sub-total {
-  border-top: 2px solid #7342d6;
+  border-top: 2px solid #F58F29;
   padding-top: 24px;
 }
 

@@ -41,7 +41,7 @@ const BookInfo = ({ books, cart, addToCart }) => {
               </Link>
               {/* Another Link to the books page with the "Books" title */}
               <Link to="/books" className="book__link">
-                <h2 className="book_selected--title--top">
+                <h2 className="book__selected--title--top">
                   Books
                 </h2>
               </Link>

@@ -3,7 +3,7 @@ export const books = [
   {
     id: 1,
     title: "Crack the Coding Interview",
-    url: "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+    url: "https://m.media-amazon.com/images/I/61mIq2iJUXL._SL1360_.jpg",
     originalPrice: 49.95,
     salePrice: 14.95,
     rating: 4.5,
@@ -11,7 +11,7 @@ export const books = [
   {
     id: 2,
     title: "Atomic Habits",
-    url: "https://covers.openlibrary.org/b/id/10958382-L.jpg",
+    url: "https://m.media-amazon.com/images/I/51CtZSFgaWL.jpg",
     originalPrice: 39,
     salePrice: null,
     rating: 5,
@@ -19,7 +19,7 @@ export const books = [
   {
     id: 3,
     title: "Can't Hurt Me",
-    url: "https://covers.openlibrary.org/b/id/10425061-L.jpg",
+    url: "https://m.media-amazon.com/images/I/81MtKRJ1HLL._SL1500_.jpg",
     originalPrice: 29,
     salePrice: null,
     rating: 5,
@@ -27,7 +27,7 @@ export const books = [
   {
     id: 4,
     title: "Deep Work",
-    url: "https://covers.openlibrary.org/b/id/10088428-L.jpg",
+    url: "https://calnewport.com/wp-content/uploads/2015/11/Newport_DeepWork_HC_web.jpg",
     originalPrice: 44,
     salePrice: 19,
     rating: 4.5,
@@ -35,7 +35,7 @@ export const books = [
   {
     id: 5,
     title: "The 10X Rule",
-    url: "https://covers.openlibrary.org/b/id/9978588-L.jpg",
+    url: "https://images.cdn1.buscalibre.com/fit-in/360x360/45/98/4598de4c72a635d005f2ace6742019d0.jpg",
     originalPrice: 32,
     salePrice: null,
     rating: 5,
@@ -43,7 +43,7 @@ export const books = [
   {
     id: 6,
     title: "Sell Or Be Sold",
-    url: "https://covers.openlibrary.org/b/id/7737110-L.jpg",
+    url: "https://m.media-amazon.com/images/I/41YMyY802WL.jpg",
     originalPrice: 70,
     salePrice: 12.5,
     rating: 5,
@@ -51,7 +51,7 @@ export const books = [
   {
     id: 7,
     title: "Rich Dad Poor Dad",
-    url: "https://covers.openlibrary.org/b/id/2380224-L.jpg",
+    url: "https://m.media-amazon.com/images/I/81x0fNqLc-L._SL1500_.jpg",
     originalPrice: 11,
     salePrice: 10,
     rating: 4,
@@ -59,7 +59,7 @@ export const books = [
   {
     id: 8,
     title: "Cashflow Quadrant",
-    url: "https://covers.openlibrary.org/b/id/1954899-L.jpg",
+    url: "https://m.media-amazon.com/images/I/61Gb3GF1cFL._SL1482_.jpg",
     originalPrice: 38,
     salePrice: 17.95,
     rating: 4.5,
@@ -67,7 +67,7 @@ export const books = [
   {
     id: 9,
     title: "48 Laws of Power Summary",
-    url: "https://covers.openlibrary.org/b/id/8906626-L.jpg",
+    url: "https://m.media-amazon.com/images/I/619u+GnhP0L._SL1360_.jpg",
     originalPrice: 35,
     salePrice: 19.95,
     rating: 4.5,
@@ -75,7 +75,7 @@ export const books = [
   {
     id: 10,
     title: "The 5 Second Rule",
-    url: "https://covers.openlibrary.org/b/id/8114155-L.jpg",
+    url: "https://m.media-amazon.com/images/I/51oeTwQmhYS.jpg",
     originalPrice: 40,
     salePrice: null,
     rating: 5,
@@ -83,7 +83,7 @@ export const books = [
   {
     id: 11,
     title: "How to Win Friends & Influence People",
-    url: "https://covers.openlibrary.org/b/id/7895280-L.jpg",
+    url: "https://m.media-amazon.com/images/I/91Ap7mQGj9L._SL1500_.jpg",
     originalPrice: 30,
     salePrice: 20,
     rating: 5,
@@ -91,7 +91,7 @@ export const books = [
   {
     id: 12,
     title: "Mastery",
-    url: "https://covers.openlibrary.org/b/id/8479576-L.jpg",
+    url: "https://m.media-amazon.com/images/I/71zTtMP8ijL._SL1500_.jpg",
     originalPrice: 30,
     salePrice: 12.95,
     rating: 4.5,
